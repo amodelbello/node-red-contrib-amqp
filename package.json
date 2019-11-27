@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-amqp",
+  "name": "@meowwolf/node-red-contrib-amqp",
   "version": "1.0.1",
   "description": "Node-RED AMQP input and output nodes",
   "main": "index.js",
@@ -20,11 +20,11 @@
   "files": [
     "lib/*"
   ],
-  "author": "Ab Reitsma",
+  "author": "Ab Reitsma & Amo DelBello :)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abreits/node-red-contrib-amqp"
+    "url": "https://github.com/amodelbello/node-red-contrib-amqp"
   },
   "dependencies": {
     "amqp-ts": "^1.0.0",
